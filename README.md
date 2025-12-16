@@ -6,8 +6,6 @@
 ### 🌍 About Me
 
 💻 Technology enthusiast passionate about building scalable applications & solving real-world problems using AI and Web Technologies.  
-🎓 Pursuing **B.Tech in Information Technology (2024–2027)** from Vidyalankar Institute of Technology — **CGPA: 9.80**  
-🎓 Completed **Diploma in IT (2021–2024)** from Bharati Vidyapeeth Institute of Technology — **92.69%**  
 🚀 Exploring **Machine Learning, MERN Stack, System Design, DevOps fundamentals**
 
 ---
