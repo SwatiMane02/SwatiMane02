@@ -1,69 +1,20 @@
-<h1 align="center">Hi 👋, I'm Swati Mane</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack | AI/ML & Web Dev Enthusiast</h3>
+## 👋 About Me<br><br>Hi, I'm **Swati Mane**, a B.Tech Information Technology student with a strong interest in **Software Engineering, AI/ML, and Full-Stack Development**. I enjoy building intelligent systems that combine modern web technologies with data-driven decision-making to solve real-world problems.<br><br>🔭 Currently working on AI-powered and full-stack applications<br><br>🤝 Open to collaborating on AI/ML, MERN Stack, and open-source projects<br><br>🌱 Currently learning advanced AI systems, RAG pipelines, cloud technologies, and scalable application development<br><br>💬 Ask me about MERN Stack, Machine Learning, REST APIs, MongoDB, React, Node.js, and Python<br><br>🏆 Hackathon Winner | Top Finalist at multiple national-level hackathons<br><br>⚡ Fun fact: I love turning innovative ideas into impactful solutions through code, hackathons, and continuous learning.
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SwatiMane02&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SwatiMane02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SwatiMane02&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SwatiMane02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SwatiMane02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌍 About Me
-
-💻 Technology enthusiast passionate about building scalable applications & solving real-world problems using AI and Web Technologies.  
-🚀 Exploring **Machine Learning, MERN Stack, System Design, DevOps fundamentals**
-
----
-
-### 🛠 Tech Stack
-
-**Languages:** Java | C | C++ | Python | Go | Dart | HTML | CSS | PHP  
-**Frameworks:** MERN Stack (MongoDB, Express, React, Node) | Flutter  
-**AI/ML:** Supervised & Unsupervised Learning | NLP | Model Evaluation  
-**Databases:** MySQL | MongoDB | Firebase | Oracle  
-**Tools & DevOps:** Git | Docker | VS Code | Android Studio | Kubernetes | Colab | Jupyter Notebook  
-
-
----
-
-### 🏆 Achievements
-
-🏅 **Winner – Codeissance 2025 (Industry Domain)** – LeadVault under Bank of India challenge  
-🏆 **Finalist – HackBuild 2025 (GDG VIT Mumbai)** – AI disaster alert platform  
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwatiMane02&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiMane02&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-📫 Email: **swatidmane02@gmail.com**  
-📍 Mumbai, India  
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/swati-mane-6a5388354" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:swatidmane02@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-FF5733.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/SwatiMane02" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge" />
-</a>
-
-</p>
-
-
----
-
-⭐ **Thanks for visiting my profile!**  
-✨ _Always open to collaboration, projects & learning opportunities._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
